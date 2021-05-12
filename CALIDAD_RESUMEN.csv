@@ -1,0 +1,787 @@
+Programa;Variable_Adminicion;Variable_profesorado;Variable_formacion;Variable_infraestructura;Variable_economia;Variable_Logistica;Profesionalidad;Personal_directivo;Valoracion_integral
+Mecanica, Mencion Eficiencia Energetica;4;3;4;4;4,5;4;5;5;5
+Estadistica, Mencion Estadistica Aplicada;7;5;6;6;5,5;6;5;6;5
+Desarrollo Local;8;8;8;8;8;8;8;8;8
+Zootecnia, Mencion Produccion Ganadera Sostenible;6;8;7;7;7,5;8;9;9;8
+Agroindustria;7;8;8;7;7;7;7;9;8
+Agroindustria;9;9;8;8;8;8;8;8;8
+Agroindustria;9;9;9;9;9;9;9;9;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;8;8;9;8;8;8;8;8
+Educacion, Mencion Ensenanza Basica;9;8;9;9;9;9;8;9;8
+Optometria, Mencion Contactologia y Terapia Visual;8;8;8;8;7;8;9;8;8
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;9;9;9;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;9;8;8;8;8;8;8;8;8
+Educacion, Mencion Ensenanza Basica;9;9;9;7;8;8;9;9;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;9;9;9;9;9;9;9
+Agroindustria;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;9;9;9;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;8;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;7;8;8;8;8;8;8;8;8
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;7;9;9;9;9;9
+Agroindustria;8;8;8;7;8;8;8;8;8
+Hidraulica, Mencion Gestion de Recursos Hidricos;7;7;8;8;6;6;8;3;6
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;8;8;8;8;8;8;8;8
+Matematica;8;8;8;9;9;8;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;8;8;8;8;8;8;8;8;8
+Matematica;9;9;9;7;9;9;8;9;9
+Matematica;9;9;9;8;8,5;9;9;9;9
+Educacion, Mencion Ensenanza Basica;8;9;9;9;9;8;9;9;8
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;8;7;8;7,5;7;8;9;7
+Matematica;5;8;8;8;8;8;8;8;8
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;8;8;9;9;9;8;8;8
+Agronomia, Mencion Produccion Agricola Sostenible;8;7;7;9;9;9;8;7;8
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;8;8
+Agronomia, Mencion Agricultura Sostenible;8;8;8;8;8;8;8;8;8
+Agroindustria;9;9;9;9;9;9;9;9;8
+Agronomia, Mencion Agricultura Sostenible;9;9;9;8;8;8;9;9;9
+Matematica;9;9;9;9;8;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;9;9;9;9
+Matematica;8;8;8;7;7,5;7;8;8;9
+Agroindustria;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;8;9;9
+Agronomia, Mencion Agricultura Sostenible;9;8;9;8;8,5;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;8;8;9;9;9;7;8;7
+Educacion, Mencion Ensenanza Basica;8;9;8;8;8;8;8;8;8
+Agroindustria;9;8;8;9;9;8;8;8;8
+Matematica;9;9;9;7;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;8;8;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;8;8;7;7;8;8
+Agroindustria;7;7;7;8;8;8;8;8;8
+Matematica;7;9;9;7;7;9;9;9;9
+Agroindustria;7;7;7;8;7;8;8;8;8
+Agroindustria;8;7;7;7;7,5;8;7;8;7
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;9;9;9;9
+Matematica;8;9;9;9;9;9;8;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;7;7;7;8;7;7;4;7
+Matematica;8;7;7;7;8;9;9;8;8
+Matematica;8;7;8;7;7;7;8;8;7
+Agronomia, Mencion Agricultura Sostenible;9;9;8;9;8;9;8;8;9
+Desarrollo Local;8;8;8;7;7;8;8;8;8
+Agroindustria;8;8;8;8;8,5;9;8;7;8
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Agroindustria;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Mecanizacion Agricola;9;8;8;9;9;9;9;9;8
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;8;8;8;8;8;8
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Mecanizacion Agricola;8;8;8;7;8;8;8;8;8
+Desarrollo Local;9;9;9;8;9;9;8;9;9
+Agroindustria;9;7;7;8;8,5;8;8;8;7
+Matematica;8;8;8;8;8;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;7;9;9;9;9;9
+Matematica;9;9;9;8;9;9;5;9;9
+Matematica;8;9;9;6;7;6;8;8;8
+Matematica;9;9;9;9;9;9;9;9;9
+Matematica;8;9;9;8;8;7;8;9;8
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;8;8;8;8;8;8;8;9
+Agronomia, Mencion Agricultura Sostenible;8;7;7;7;7;7;7;7;8
+Agronomia, Mencion Mecanizacion Agricola;9;9;9;9;9;9;9;9;9
+Desarrollo Local;7;5;5;2;2;5;5;6;6
+Agronomia, Mencion Mecanizacion Agricola;9;8;8;9;8;9;9;9;9
+Desarrollo Local;9;8;9;8;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;1;1;1;1;1;1;1;1;1
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;8;7;8,5;9;9;9;8
+Desarrollo Local;8;9;9;8;9;8;8;9;9
+Desarrollo Local;9;9;8;7;8;8;8;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Bibliotecologia, Mencion Gestion de la Informacion;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Bibliotecologia, Mencion Gestion de la Informacion;8;8;8;7;7;7;8;8;8
+Matematica;9;9;9;9;9;9;9;9;9
+Bibliotecologia, Mencion Gestion de la Informacion;8;9;9;9;9;5;9;9;7
+Administracion de Empresas;9;8;8;8;8,5;8;9;8;8
+Administracion de Empresas;8;8;8;7;7;7;8;8;8
+Administracion de Empresas;9;9;9;8;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;7;8;8;8;7,5;7;7;9;7
+Administracion de Empresas;9;9;9;9;9;1;9;9;7
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Ambiente;9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Ambiente;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;8;9;9;9;9;9
+Administracion de Empresas;9;7;8;8;7;7;7;7;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;8;9;8;8,5;8;8;8;8
+Optometria, Mencion Contactologia y Terapia Visual;8;9;8;8;9;9;9;8;8
+Ingenieria Quimica, Mencion Alimentos;9;9;9;8;9;8;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;8;9;9
+Administracion de Empresas;9;8;9;9;9;9;9;9;8
+Ingenieria Quimica, Mencion Alimentos;8;8;8;8;9;9;8;9;8
+Agronomia, Mencion Mecanizacion Agricola;8;8;8;9;9;8;9;9;8
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;9;9;9;5;9;8;5;9;9
+Administracion de Empresas;9;9;9;8;8,5;8;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;8;8;7;7;8;8;8;8
+Administracion de Empresas;8;5;6;4;5;5;7;7;7
+Ingenieria Quimica, Mencion Ambiente;8;8;8;8;8;8;8;8;8
+Estadistica, Mencion Estadistica Aplicada;9;9;8;8;8;8;8;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;8;8;8;6;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;8;8;8;8;8;8;8;8;8
+Educacion, Mencion Ensenanza Basica;9;9;9;9;8,5;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;8;7;7;7;8;8;8
+Ingenieria Quimica, Mencion Ambiente;9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;8;9;9;9;8;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;8;8;9;8;8;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;8;8;8;8;8,5;9;8;8;8
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Ambiente;8;8;8;7;8;8;8;9;8
+Matematica;9;9;9;9;9;9;9;9;9
+Matematica;8;8;8;8;8;8;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;8;9;9;9;9;8;8;8;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Gerencia de la Calidad e Innovacion;5;5;5;5;3;5;6;4;4
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;6;9;8;7
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;7;9;9;8;8;8;8;8;8
+Ingenieria Quimica, Mencion Alimentos;8;9;9;7;8;7;8;8;8
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;8;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Gerencia de la Calidad e Innovacion;7;7;7;7;5,5;7;8;7;7
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;7;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;9;9;8;8;9;8
+Administracion de Empresas;9;9;9;8;5,5;7;8;8;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Zootecnia, Mencion Produccion Ganadera Sostenible;9;8;8;8;8;8;8;9;7
+Agroindustria;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Bibliotecologia, Mencion Gestion de la Informacion;9;9;9;9;9;7;8;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;8;8;8;8;8;9
+Ingenieria Quimica, Mencion Procesos Quimicos;8;8;7;6;7;8;8;8;8
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Agroindustria;8;8;7;8;8;8;7;8;7
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;8;6;7;7;9;8;8
+Matematica;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;7;8;9;6,5;9;9;9;7
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;9;9;9;9;8;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Zootecnia, Mencion Produccion Ganadera Sostenible;5;8;8;5;9;8;7;8;8
+Agronomia, Mencion Produccion Agricola Sostenible;5;5;5;5;5;5;5;5;5
+Estadistica, Mencion Estadistica Aplicada;9;9;9;9;8;8;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Ambiente;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;8
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;9;9;9;8
+Estadistica, Mencion Estadistica Aplicada;9;9;9;9;9;9;9;9;7
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;7;8;7;5;6,5;5;5;7;8
+Gerencia de la Calidad e Innovacion;7;5;6;7;7;7;8;8;6
+Optometria, Mencion Contactologia y Terapia Visual;9;9;8;9;8,5;9;8;9;8
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;8;8;8;8;9;9
+Estadistica, Mencion Estadistica Aplicada;8;7;7;7;7;7;7;8;8
+Estadistica, Mencion Estadistica Aplicada;7;9;9;5;6;5;9;7;9
+Desarrollo Local;8;7;8;7;8;8;8;8;8
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;4;7;8;7;8;6;8;8;7
+Desarrollo Local;8;7;7;6;7;7;8;8;8
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;9;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;8;9;9;9
+Estadistica, Mencion Estadistica Aplicada;9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;8;9;9;9;7,5;8;9;9;9
+Desarrollo Local;9;7;7;7;5;7;7;8;7
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;5;8;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;8;8,5;8;9;9;9
+Estadistica, Mencion Estadistica Aplicada;5;5;6;4;5,5;6;7;6;5
+Ingenieria Agricola;9;8;9;8;8,5;8;8;8;8
+Ingenieria Agricola;9;5;9;5;7;5;8;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;8;8;8;8;8;8;8;8;8
+Ingenieria Agricola;8;8;7;7;7;7;7;7;7
+Pedagogia, Mencion Bachillerato Tecnico;9;7;7;3;4;4;5;6;4
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;6;7;5;1;1;1;1;5;5
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;8;8;8,5;8;9;9;8
+Agronomia, Mencion Agricultura Sostenible;9;9;8;7;8;8;9;9;8
+Administracion de Empresas;2;2;2;2;2;2;2;2;2
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;8;9;9;9;9;9
+Ingenieria Agricola;8;8;8;8;9;8;8;8;8
+Bibliotecologia, Mencion Gestion de la Informacion;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;8;9;8;7;6,5;7;8;8;8
+Ingenieria Quimica, Mencion Alimentos;7;8;7;5;5;7;7;7;7
+Ingenieria Agricola;8;8;8;8;8;8;8;8;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;9;9;9;9;9;9;9
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;7;8;8;8;8;9;9;9;9
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;9;9;9;8
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Ambiente;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;5;8;5;8;5;5;5;6;4
+Optometria, Mencion Contactologia y Terapia Visual;7;9;9;7;7;7;6;8;8
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;9;8;9;9;7,5;9;8;9;8
+Ingenieria Agricola;9;8;5;5;5;7;9;6;6
+Quimica, Mencion Quimica Ambiental;9;9;8;8;6;7;7;9;9
+Ingenieria Quimica, Mencion Ambiente;8;8;9;9;8;8;8;9;7
+Ingenieria Agricola;9;9;8;8;8;8;8;8;8
+Agronomia, Mencion Produccion Agricola Sostenible;7;9;7;5;6,5;6;7;8;8
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Bibliotecologia, Mencion Gestion de la Informacion;8;9;9;9;9;8;9;9;9
+Zootecnia, Mencion Produccion Ganadera Sostenible;9;8;8;5;8;9;8;8;8
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Ambiente;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;8;8;8;8;7;8;8;8;8
+Bibliotecologia, Mencion Gestion de la Informacion;7;8;8;8;7;7;8;8;8
+Agronomia, Mencion Mecanizacion Agricola;9;9;9;9;9;9;8;9;9
+Quimica, Mencion Quimica Ambiental;6;6;7;7;8;7;8;7;7
+Matematica;9;9;9;7;9;9;9;9;8
+Quimica, Mencion Quimica Ambiental;8;9;9;8;8;9;9;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;5;7;1;9;9;6
+Quimica, Mencion Quimica Ambiental;9;8;9;7;8,5;9;9;9;8
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;7;8;9;9;7;9;8;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;8;8;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola con mencion en Agroecologia y Cambio Climatico;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;8;8;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;8;7;8;8;9;9;8
+Ingenieria Quimica, Mencion Procesos Quimicos;8;8;8;8;8;8;8;8;8
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;9;9;9;7;8,5;6;7;9;7
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;8
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;8;9
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;8;7;8;8;8;8;8;8;9
+Ingenieria Quimica, Mencion Procesos Quimicos;8;8;9;8;8,5;9;9;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;8;9;9;9;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;7;8;8;8;8;8;8;8;9
+Ingenieria Agricola;9;8;9;9;9;9;9;8;7
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;7;7;7;7;7;7;7;7;7
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;9;9;8;9;9
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Matematica;7;9;9;9;8,5;8;8;8;8
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;9;9;9;9;9;9
+Agroindustria;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;8;8;8;8;9;8
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;7;8,5;8;8;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;8;8;8;7;8;8;8;8;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;7;8;8;8;6;8;8;8;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;8;9;8;7,5;8;9;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;8;9;9;9;9;9
+Agronomia, Mencion Mecanizacion Agricola;9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;8;8;8;8;8;8;8;8;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;8;9;9;8;8;9;9;9;9
+Ingenieria Agricola;8;8;8;8;8;8;8;8;8
+Desarrollo Local;8;8;8;7;8;8;8;8;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;8;9;9;8,5;8;8;9;9
+Optometria, Mencion Contactologia y Terapia Visual;8;7;8;7;7,5;7;7;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;8;8;8;8;8;8;8;8;8
+Matematica;9;9;9;9;9;9;9;9;9
+Matematica;8;7;8;7;7;7;8;7;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;8;8;9;8;8;8;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;8;7;8;6;7,5;7;8;9;7
+Administracion de Empresas;9;9;9;9;8,5;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;7;7;8;5;9;7;7;7;7
+Ingenieria Agricola;9;9;9;9;9;9;9;9;9
+Optometria, Mencion Contactologia y Terapia Visual;8;8;9;7;8;8;9;9;8
+Matematica;8;7;8;8;8;8;7;7;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;7;7;7;7;5;7;7;7;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;8;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;8;8;8;8;8;8;8;8;8
+Agronomia, Mencion Agricultura Sostenible;8;8;8;6;7,5;7;8;7;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;8;8;8;9;8;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;8;8;8;8;8;8;8
+Hidraulica, Mencion Disenos de Obras Hidraulicas;8;5;6;7;7;6;7;8;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;8
+Pedagogia, Mencion Bachillerato Tecnico;9;6;6;6;6;8;8;8;8
+Pedagogia, Mencion Bachillerato Tecnico;9;6;6;6;6;8;8;8;8
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;3;9;9;8
+Agronomia, Mencion Mecanizacion Agricola;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;8,5;9;9;8;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Agroindustria;8;7;5;2;5,5;5;6;9;4
+Matematica;8;7;7;9;7,5;9;9;9;9
+Matematica;9;9;8;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Mecanizacion Agricola;1;1;1;1;2;1;1;1;1
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;7;7;7;8;9;6;9;7
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;9;9;9;9;9;9;9;9
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;9;9;9;9;9;9;8;8
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;8;8;8;9;8,5;8;9;9;8
+Hidraulica, Mencion Disenos de Obras Hidraulicas;9;8;9;7;8;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;8;7;7;7;7;7;7;7;8
+Quimica, Mencion Quimica Ambiental;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;9;9;9;8;8;8;9;9;8
+Hidraulica, Mencion Disenos de Obras Hidraulicas;9;8;9;8;7;8;8;9;9
+Hidraulica, Mencion Gestion de Recursos Hidricos;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Procesos Quimicos;9;9;9;9;9;9;9;9;9
+Quimica, Mencion Quimica Ambiental;8;9;9;8;8;8;9;9;9
+Ingenieria Agricola;9;7;7;8;9;7;7;7;7
+Ingenieria Quimica, Mencion Alimentos;7;8;7;5;5;7;7;7;7
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;9;9;8;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;9;9;9;8;8;8;8;9;8
+Agronomia, Mencion Mecanizacion Agricola;9;8;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;9;9;9;9;9;9;9;9
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;7;7;7;8;7;7;7;7;7
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;7;7;7;8;7;7;7;7;7
+Optometria, Mencion Contactologia y Terapia Visual;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;9;9;9;8;9;9;9;9;9
+Ingenieria Agricola;9;9;9;9;8;8;8;8;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Desarrollo Local;9;3;5;1;5;5;4;7;7
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;9;9;9;8;8,5;9;9;8;8
+Agronomia, Mencion Produccion Agricola Sostenible;8;8;8;9;8,5;8;8;8;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);1;8;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);8;8;8;8;8;8;9;8;8
+Agroindustria;9;9;9;8;9;8;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;9;9;9;9;8
+Educacion, Mencion Ensenanza Basica;9;8;9;7;7;8;9;9;8
+Educacion, Mencion Ensenanza Basica;8;9;9;7;8;8;8;8;8
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;9;9;9;8;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;8,5;9;9;8;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;8,5;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;8;7;7;7;7;7;8;8;8
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;8;9;9;7;8;8;9;9;9
+Estadistica, Mencion Estadistica Aplicada;8;7;8;8;7;8;8;8;8
+Administracion de Empresas;8;8;8;8;8;8;8;8;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;8;8;8;8;8;8;8;8
+Administracion de Empresas;9;8;8;5;8,5;8;9;9;9
+Administracion de Empresas;5;5;6;5;6;6;6;7;7
+Matematica;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;9;9;9;9;9;9;9
+Matematica;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;9;9;9;9;8;9;9;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;8;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;7;7;7;4;7,5;6;7;6;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;7;8;8;8;9;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;8;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;9;9;8;8
+Administracion de Empresas;9;9;9;8;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;8;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;8;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;8,5;9;9;9;9
+Administracion de Empresas;9;7;7;7;7,5;8;8;8;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;7;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;7;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;8;8;8;5;8;7;9;8;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;8;9;9;9;9;8;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;8;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;1;1;1;1;1;1;1;1;1
+Educacion, Mencion Comunicacion Educativa;8;8;8;8;8;8;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;8;8;9;8;8;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;8;8;9;8;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;8;8;8;9;8;8;9;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;8;7;7;7,5;8;8;9;8
+Educacion, Mencion Comunicacion Educativa;8;8;9;8;8;8;8;9;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;8;8;8;8;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;8;8;8;8;8;8;7;8
+Educacion, Mencion Comunicacion Educativa;6;6;8;7;6,5;5;6;8;7
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;8;8;8;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;8;8,5;8;9;8;8
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;8;8;8;8;8;8
+Pedagogia, Mencion Bachillerato Tecnico;9;8;9;8;8;8;8;8;8
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;9;8;8;8;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;8;9;8;8;8;8;7;9;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);8;9;9;7;7,5;8;8;8;8
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;8,5;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;8;8;8;8;9;9;9;8;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;8;8;7;8;8;9;9;9;7
+Educacion, Mencion Ensenanza Basica;8;8;8;7;8;8;8;8;8
+Educacion, Mencion Ensenanza Basica;9;8;7;5;6;5;7;7;8
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;6;7;6;4;6;5;4;4
+Pedagogia, Mencion Bachillerato Tecnico;8;5;7;7;6,5;6;6;7;7
+Educacion, Mencion Comunicacion Educativa;9;8;8;8;8;8;8;8;9
+Matematica;9;9;9;8;9;9;8;9;9
+Educacion, Mencion Comunicacion Educativa;9;8;8;9;9;8;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);7;7;7;7;7;7;7;7;7
+Educacion, Mencion Ensenanza Basica;1;1;1;1;1;1;1;1;1
+Educacion, Mencion Comunicacion Educativa;7;9;9;9;9;9;8;8;8
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;6;8;8;8;9;9
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Estadistica, Mencion Estadistica Aplicada;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;8;9;8;8;9;9;9;8
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;8;8;8;6;7;6;7;8;8
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;8;8;8;8;8;9;9;8
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;7;7;7;8;8,5;8;8;8;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;8;8;8;8;7,5;8;7;8;7
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;8;8;8;8;8;8;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;8;9;9;9;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;7;8;8;8;9;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);8;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;8;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;7;8;8;2;5;6;5;6;8
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;8;8;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Agricola;9;9;9;7;8,5;6;7;9;7
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Docencia e Innovacion Educativa (RED Universidad Catolica de Cuenca);9;9;9;8;9;9;9;9;9
+Administracion de Empresas;9;8;8;9;8;7;8;8;7
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;7;7;7;5;7;7;8;8;7
+Educacion, Mencion Ensenanza Basica;9;8;9;9;9;9;9;9;9
+Agronomia, Mencion Mecanizacion Agricola;1;1;1;1;1;1;1;1;1
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;5;7;7;7;6;7;7;7;7
+Educacion, Mencion Comunicacion Educativa;9;9;9;8;9;8;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;8;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;8;9;9;8;8;8;8;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;8;9;6;8;8;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;8;8;7;7;8;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;8;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;8;9;9;9
+Educacion, Mencion Comunicacion Educativa;8;8;8;8;8,5;8;8;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;8;9;8;8;7,5;8;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;8;9;8
+Educacion, Mencion Comunicacion Educativa;9;8;8;9;8,5;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;5;9;9;9;8,5;9;8;9;7
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;8;9;8;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;8;8;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;7;7;7;7;7;7;7;7;7
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;8,5;8;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;8;8;8;8;8;9;8;8
+Educacion, Mencion Comunicacion Educativa;8;9;8;8;8;8;8;8;9
+Educacion, Mencion Comunicacion Educativa;8;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;5;6;7;5;7;7;7;9;7
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;1;1;1;1;1;1;1;1;1
+Gestion del Talento Humano;9;9;7;7;7;7;8;7;7
+Gestion del Talento Humano;9;9;9;9;8;9;9;9;9
+Gestion del Talento Humano;8;7;8;6;7;7;8;7;8
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;9;9;8;9;9;9;9;9
+Gestion del Talento Humano;9;7;8;6;9;7;7;9;8
+Gestion del Talento Humano;7;9;8;8;8;7;9;9;8
+Gestion del Talento Humano;7;7;8;8;8;7;8;9;8
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;9;9;9;9;9;9;8;9
+Gestion del Talento Humano;9;9;9;9;8,5;8;9;9;9
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;8;9;9;9;9;8;8;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;7;9;9;9;9;9;9;9;8
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;9;9;9;8;8;9;9;8
+Gestion del Talento Humano;9;9;9;8;8;8;9;9;8
+Gestion del Talento Humano;9;9;9;7;9;9;9;9;8
+Gestion del Talento Humano;9;9;9;8;9;9;9;9;8
+Gestion del Talento Humano;9;9;9;7;8;8;8;9;8
+Gestion del Talento Humano;9;9;9;7;8;8;8;9;8
+Gestion del Talento Humano;9;9;9;8;9;9;9;9;9
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;8;8;8;8;8;8;8;8;8
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;7;7;7;7;7;7;6;7;7
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;8;7;8;8;7;7;7;7;7
+Gestion del Talento Humano;8;7;8;5;5;5;7;7;7
+Gestion del Talento Humano;9;9;9;7;8;9;9;9;9
+Gestion del Talento Humano;6;9;9;5;6;5;9;8;7
+Estadistica, Mencion Estadistica Aplicada;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;8;6;7;8;8;7;8;8;8
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;9;9;9;9;9;9;9;9
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;7;7;8;8;8;8;8;8;8
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;9;9;9;9;9;9;9;9
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;9;9;9;8;8;9;9;9
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;8;9;9;9;9;8
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;8;5;7;7;7;7;7;7;7
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;9;9;9;9;9;9;9;9
+Ingenieria Quimica, Mencion Alimentos;9;8;8;7;7;8;8;8;8
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;8;8;8;8;9
+Administracion de Empresas;8;8;8;7;8;8;8;8;8
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Comunicacion Educativa;9;9;9;8;9;9;9;9;9
+Gestion del Talento Humano;6;9;9;5;6;5;9;8;7
+Mecanica, Mencion Eficiencia Energetica;9;9;9;9;8,5;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;8;9;9;9;9;9
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;8;8;9;8;8;8;8;9;9
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Desarrollo Local;9;9;9;7;9;9;9;9;9
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Desarrollo Local;9;9;9;9;7,5;9;9;9;9
+Desarrollo Local;9;8;8;9;9;9;8;9;9
+Desarrollo Local;7;8;8;8;8;8;9;9;8
+Desarrollo Local;9;9;9;9;9;9;7;9;9
+Desarrollo Local;7;7;7;4;5,5;6;7;7;7
+Educacion, Mencion Comunicacion Educativa;9;9;9;8;9;9;9;9;9
+Desarrollo Local;9;9;9;7;6,5;7;7;8;7
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Desarrollo Local;9;9;9;9;9;9;9;9;9
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;8;7;9;8,5;9;9;9;7
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;8;8;8;8;8;8;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Mecanica, Mencion Eficiencia Energetica;9;9;9;9;9;9;9;9;9
+Desarrollo Local;9;9;9;7;6,5;7;7;8;7
+Matematica;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;8;6;7;8;8;7;8;8;8
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;8;8;8;8;8;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;7;6;5;6;6;6;6;7;5
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;9;9;9;9;9;9;9;9
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;8;8,5;8;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;8;9;9;9;9;9
+Administracion de Empresas;8;8;8;8;8;8;8;8;8
+Administracion de Empresas;9;9;9;8;8,5;8;9;9;9
+Agronomia, Mencion Agricultura Sostenible;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;7;7;7;7;6;5;6;6;7
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;8;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;8;8;7;7;7;7;7;7;6
+Administracion de Empresas;9;9;9;9;9;9;7;9;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;8;8;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;8;9;8;9;9;8;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;8;8,5;8;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;8;8;9;9
+Administracion de Empresas;9;8;8;7;9;8;8;9;9
+Administracion de Empresas;8;8;8;8;8;8;8;8;8
+Administracion de Empresas;9;9;9;8;8;8;9;9;8
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;8;8;8;8;8;8;8;8;8
+Administracion de Empresas;9;8;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;8;8;8;8;8;8;8
+Agronomia, Mencion Agricultura Sostenible;6;4;5;1;5;5;5;8;6
+Administracion de Empresas;9;9;8;8;8;8;8;8;8
+Administracion de Empresas;9;8;9;9;9;9;8;8;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;8;8;8;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;8;8;8;8;8;8;8;8;8
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;8;9;9;9;9;9
+Agronomia, Mencion Agricultura Sostenible;8;8;8;8;8;8;8;8;8
+Desarrollo Local;9;9;9;7;6,5;7;7;8;7
+Administracion de Empresas;6;6;7;3;6;6;5;6;6
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;7;8;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;8;8;9;9
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;9;9;9;9;9;9;9;8
+Administracion de Empresas;8;8;8;8;8;8;8;8;8
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;9;9;9;9;9;9;9;9;9
+Pedagogia, Mencion Bachillerato Tecnico;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;9;9;9;8;8;8;9;8;9
+Medicina Veterinaria, Mencion Salud y Reproduccion en Especies Productivas;8;8;8;8;8;8;8;8;8
+Administracion de Empresas;8;8;8;8;8;8;8;8;8
+Gestion del Talento Humano;9;9;9;9;8;8;9;9;8
+Zootecnia, Mencion Produccion Ganadera Sostenible;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;9;9;9;8,5;9;9;9;9
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Gestion del Talento Humano;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;8;6;8;8;8;8;6;8
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;8;9;9;9;8;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;5;5;3;1;5;5;5;9;5
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;8;8;7;8;7,5;8;8;8;8
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;1;9;5;5;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;8;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;8;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;8;8;8;8;8;8;8;8;8
+Administracion de Empresas;9;9;9;8;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;7;8,5;9;8;9;9
+Orientacion Familiar Integral;8;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;8,5;9;9;9;9
+Orientacion Familiar Integral;9;9;9;8;8,5;8;8;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;8;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;1;1;1;1;1;1;1;1;1
+Orientacion Familiar Integral;9;5;9;9;7;9;5;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;8;8;8;7;8;8;8;8;8
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;3;9;7;8;8;8;7;8;8
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;8;8;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;7;8;8;8;8;8;8;8;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;8;9;9;8;8,5;8;8;8;8
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;8;9;8;8;9;8
+Orientacion Familiar Integral;9;9;9;9;8,5;9;9;9;9
+Orientacion Familiar Integral;9;8;9;8;9;9;9;9;8
+Orientacion Familiar Integral;8;8;8;8;8;8;8;9;9
+Orientacion Familiar Integral;3;9;7;8;8;8;7;8;8
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;7;6;6;5;7;6;7;7;7
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;9;8;8;8;8;8;8;8;8
+Zootecnia, Mencion Produccion Ganadera Sostenible;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Orientacion Familiar Integral;9;8;8;8;8;8;9;9;9
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;8;6;8;8;8;8;6;8
+Administracion de Empresas;8;8;8;8;8;8;8;7;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;8;9;8
+Orientacion Familiar Integral;9;9;9;9;9;9;9;9;9
+Tecnologias de la Informacion, Mencion Seguridad de Redes y Comunicaciones;9;8;6;8;8;8;8;6;8
+Mantenimiento Industrial, Mencion Gestion Eficiente del Mantenimiento;9;8;9;8;9;8;9;9;9
+Ingenieria Civil, Mencion Construccion de Vivienda Social;8;8;8;8;8;8;8;8;8
+Educacion, Mencion Comunicacion Educativa;9;9;9;9;9;9;9;9;9
+Agronomia, Mencion Produccion Agricola Sostenible;7;9;8;7;8;8;8;8;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
+Educacion, Mencion Ensenanza Basica;9;9;9;9;9;9;9;9;9
+Administracion de Empresas;9;9;9;9;9;9;9;9;9
